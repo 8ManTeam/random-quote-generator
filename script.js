@@ -44,6 +44,8 @@ function inIframe() {
     ["An insincere friend is more to be feared than a wild beast; a wild beast may wound your body, but an insincere friend will wound your mind.","Teachings of the Buddha"]
     ["With our thoughts we make the world.","Teachings of the Buddha"]
     ["Not by birth does one become an outcaste.Not by birth does one become a Brahman.By one's action one becomes an outcaste By one's action  one becomes a Brahman.","Buddha, Sutta Nipata, 136"]
+    ["Focus on yourself.","Teachings of the Buddha"]
+    ["We are formed and molded by our thoughts. Those whose minds are shaped by selfless thoughts give joy when they speak or act. Joy follows them like a shadow that never leaves them.","Gautama Buddha"]
     ];
  
 
