@@ -46,6 +46,10 @@ function inIframe() {
     ["Not by birth does one become an outcaste.Not by birth does one become a Brahman.By one's action one becomes an outcaste By one's action  one becomes a Brahman.","Buddha, Sutta Nipata, 136"]
     ["Focus on yourself.","Teachings of the Buddha"]
     ["We are formed and molded by our thoughts. Those whose minds are shaped by selfless thoughts give joy when they speak or act. Joy follows them like a shadow that never leaves them.","Gautama Buddha"]
+    ["Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.","Teachings of the Buddha, Dhammapada 112"]
+    ["We are shaped by our thoughts; we become what we think.","Teachings of the Buddha, Dhammapada 112"]
+    ["We are shaped by our thoughts; we become what we think.","Teachings of the Buddha"]
+    ["It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.","Gautama Buddha"]
     ];
  
 
