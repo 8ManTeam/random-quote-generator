@@ -31,25 +31,25 @@ function inIframe() {
     ["An insincere friend is more to be feared than a wild beast; a wild beast may wound your body, but an insincere friend will wound your mind.","Teachings of the Buddha"],
     ["With our thoughts we make the world.","Teachings of the Buddha"],
     [" As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.","The Buddha, Jara Sutta of the Sutta Nipata"],
-    [" There is no fear for one whose mind is not filled with desires.","Teachings of the Buddha"]
+    [" There is no fear for one whose mind is not filled with desires.","Teachings of the Buddha"],
     ["The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.","Buddha, Sutta Nipata"],
     ["Unity can only be manifested by the Binary. Unity itself and the idea of Unity are already two.","Teachings of the Buddha"],
     ["You yourself must strive. The Buddhas only point the way.","Teachings of the Buddha"],
     ["No one can make you feel inferior without your consent.","Eleanor Roosevelt, This is My Story"],
     ["Better it is to live one day wise and meditative than to live a hundred years foolish and uncontrolled.","Buddha, Dhammapada, v. 111"],
-    ["A jug fills drop by drop.","Gautama Buddha"]
-    ["Be a lamp unto yourself. Work out your liberation with diligence.","Teachings of the Buddha"]
-    ["A man does not become a Brahmana by his platted hair, by his family, or by birth;in whom there is truth and righteousness, he is blessed, he is a Brahmana.","Buddha, Dhammapada, v. 393"]
-    ["A wise man adapts himself to circumstances, as water shapes itself to the vessel containing it.","Chinese Proverb"]
-    ["An insincere friend is more to be feared than a wild beast; a wild beast may wound your body, but an insincere friend will wound your mind.","Teachings of the Buddha"]
-    ["With our thoughts we make the world.","Teachings of the Buddha"]
-    ["Not by birth does one become an outcaste.Not by birth does one become a Brahman.By one's action one becomes an outcaste By one's action  one becomes a Brahman.","Buddha, Sutta Nipata, 136"]
-    ["Focus on yourself.","Teachings of the Buddha"]
-    ["We are formed and molded by our thoughts. Those whose minds are shaped by selfless thoughts give joy when they speak or act. Joy follows them like a shadow that never leaves them.","Gautama Buddha"]
-    ["Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.","Teachings of the Buddha, Dhammapada 112"]
-    ["We are shaped by our thoughts; we become what we think.","Teachings of the Buddha, Dhammapada 112"]
-    ["We are shaped by our thoughts; we become what we think.","Teachings of the Buddha"]
-    ["It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.","Gautama Buddha"]
+    ["A jug fills drop by drop.","Gautama Buddha"],
+    ["Be a lamp unto yourself. Work out your liberation with diligence.","Teachings of the Buddha"],
+    ["A man does not become a Brahmana by his platted hair, by his family, or by birth;in whom there is truth and righteousness, he is blessed, he is a Brahmana.","Buddha, Dhammapada, v. 393"],
+    ["A wise man adapts himself to circumstances, as water shapes itself to the vessel containing it.","Chinese Proverb"],
+    ["An insincere friend is more to be feared than a wild beast; a wild beast may wound your body, but an insincere friend will wound your mind.","Teachings of the Buddha"],
+    ["With our thoughts we make the world.","Teachings of the Buddha"],
+    ["Not by birth does one become an outcaste.Not by birth does one become a Brahman.By one's action one becomes an outcaste By one's action  one becomes a Brahman.","Buddha, Sutta Nipata, 136"],
+    ["Focus on yourself.","Teachings of the Buddha"],
+    ["We are formed and molded by our thoughts. Those whose minds are shaped by selfless thoughts give joy when they speak or act. Joy follows them like a shadow that never leaves them.","Gautama Buddha"],
+    ["Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.","Teachings of the Buddha, Dhammapada 112"],
+    ["We are shaped by our thoughts; we become what we think.","Teachings of the Buddha, Dhammapada 112"],
+    ["We are shaped by our thoughts; we become what we think.","Teachings of the Buddha"],
+    ["It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.","Gautama Buddha"],
     ];
  
 
