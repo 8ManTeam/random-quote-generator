@@ -108,3 +108,12 @@ blockquote footer {
     #quotetext {font-size:18px; }
 
     }
+.topBar {
+    float: right;
+    margin: 10px 20px;
+}
+
+.topBar a {
+    text-decoration: none;
+    color: inherit;
+}
